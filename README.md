@@ -1,6 +1,4 @@
-# Project Title
-
-Laboratory Information System
+# Laboratory Information System
 
 ### Prerequisites
 
@@ -9,19 +7,20 @@ Laboratory Information System
 
 
 ## Running the tests
-'''
+```
 mvn test
-'''
+```
 
 
 ## Running the sample app
-'''
+From root project directory
+```
 mvn install
-'''
-from sample app directory
-'''
+```
+and from sample app directory
+```
 mvn exec:java
-'''
+```
 
 ## Author
 
